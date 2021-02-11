@@ -1,0 +1,19 @@
+2)
+Untuk masalah yang terjadi pada skenario (a) dan (b) memiliki masalah yang sama, yaitu keluar dari aplikasi secara paksa, atau bisa dikatakan app tersebut aktivitasnya dihentikan. Hal tersebut dikarenakan adanya empty string pada angka1 dan/atau angka2 sehingga menghasilkan "NumberFormatException" dimana string yang ingin dikonversikan ke dalam bentuk "double" tidak ada.
+Untuk mengatasi masalah tersebut, maka kita bisa membuat sebuah exception jika string yang diisi tidak kosong/kosong dan memiliki format yang sesuai.
+
+Sedangkan untuk skenario (c), perhitungan berjalan dengan lancar. Tidak terjadi suatu masalah dan angka berapapun yang dibagi dengan angka 0 dapat menghasilkan jawaban infinity. Hal tersebut dikarenakan floating point arithmetic mendefinisikan exception handling tersebut secara default jika terdapat pembagian oleh 0 maka hasilnya akan infinite.
+
+3)
+Saya meletakkan breakpoint pertama pada:
+	"double operand2 = Double.parseDouble(angka2.getText().toString());"
+dan breakpoint kedua pada:
+	"case('+') : result = operand1 + operand2; break;"
+
+Step-over: Ketika breakpoint pertama tercapai dan melakukan step-over maka baris selanjutnya akan dijalankan dan kemudian berhenti lagi. Step-over dapat terus dijalankan sesuai proses yang diminta. Misal kita ingin menghitung 16 - 7 = ?. Proses yang telah berjalan sampai breakpoint pertama akan terhenti, kita bisa melakukan step-over berkali2 (per baris) sesuai proses yang diminta sehingga mendapatkan hasilnya yaitu 9. 
+
+Step-into: Ketika breakpoint yang dijumpai menemui sebuah fungsi, maka debugger akan berpindah ke definisi dari metode fungsi tersebut, misalkan sesuai breakpoint pertama yang saya tentukan, maka debugger akan masuk ke metode getText(). 
+
+Step-out: Setelah melakukan step-into, kita bisa melakukan step-out yang dapat mengeksekusi sisa metode yang ada dan kembali ke baris dimana kita melakukan step-into sebelumnya. Misal, setelah getText() selesai eksekusi, debugger berpindah kembali ke baris breakpoint pertama. Kita bisa menggunakan kembali step-into dan step-out untuk eksekusi metode yang ada pada baris breakpoint tersebut.
+
+Resume process: Ketika breakpoint pertama tercapai kemudian saya menggunaka resume proses, maka proses akan berjalan seperti biasa sampai menemukan kembali breakpoint selanjutnya atau selesai semua prosesnya sehingga hasil kalkulasi akan didapatkan.
