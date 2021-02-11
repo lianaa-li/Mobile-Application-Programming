@@ -1,0 +1,6 @@
+2. Berdasarkan pengujian yang telah saya lakukan terhadap app di minggu ke-3 ini adalah:
+	- Ketika saya meng-klik item yang ada pada daftar kata, maka item tersebut akan ter-update dengan munculnya pop up "Kata [x] dipilih" di layar bagian bawah dan juga memiliki tambahan kalimat pada item itu sendiri. Dari yang awalnya hanya "Kata [x]" menjadi "Kata [x] pernah diklik".
+	- Ketika item yang pernah diklik sebelumnya diklik kembali, maka hal yang sama akan terjadi kembali yaitu munculnya pop up di layar bagian bawah yang mengatakan bahwa item yang diklik tersebut dipilih dan keterangan "pernah diklik" juga akan bertambah pada item tersebut. 
+	- Ketika button "+" di-klik, maka akan muncul satu item baru yang bersifat increment tergantung dari kata terakhir ke-berapa yang telah ada. Item baru yang ditambahkan tersebut akan dinamakan dengan "Kata [x] telah ditambahkan". 
+
+LINK GITHUB: https://github.com/lianaa-li/Mobile-Application-Programming
