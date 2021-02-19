@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     private EditText etIsian, etUrl;
-    private Button btnKirim, btnBrowse;
+    private Button btnKirim, btnBrowse, btnChange1, btnChange2;
     private TextView tvJawaban;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,7 +22,11 @@ public class MainActivity extends AppCompatActivity {
         etUrl = findViewById(R.id.url);
         btnBrowse = findViewById(R.id.buttonBrowse);
         btnKirim = findViewById(R.id.buttonKirim);
+
         tvJawaban = findViewById(R.id.jawaban);
+
+        btnChange1 = findViewById(R.id.main_button_change_1);
+        btnChange2 = findViewById(R.id.main_button_change_2);
         btnBrowse.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -46,6 +50,24 @@ public class MainActivity extends AppCompatActivity {
                 String isian = etIsian.getText().toString();
                 intentDua.putExtra("PesanDariMain", isian);
                 startActivityForResult(intentDua, 1);
+            }
+        });
+
+        btnChange1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intentSecondAct = new Intent(MainActivity.this,
+                        SecondActivity.class);
+                startActivityForResult(intentSecondAct, 1);
+            }
+        });
+
+        btnChange2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intentThirdAct = new Intent(MainActivity.this,
+                        ThirdActivity.class);
+                startActivityForResult(intentThirdAct, 1);
             }
         });
     }

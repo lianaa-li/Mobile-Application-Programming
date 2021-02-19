@@ -1,0 +1,13 @@
+LINK GITHUB: https://github.com/lianaa-li/Mobile-Application-Programming
+
+2. 
+
+Skenario 1:
+Mengirimkan teks, ketik apapun itu pada bagian yang sudah disediakan dengan hint "Teks yang akan dikirim". Selesai mengetik, maka tekan kirim dan aktivitas yang diberikan tersebut akan berpindah halaman dimana halaman tersebut menerima pesan yang telah diketik. 
+Pesan yang telah diterima dapat terlihat isinya pada halaman tersebut, kemudian jika ingin membalasnya bisa dengan mengisi pada bagian hint "Jawaban" dan tekan 'balas'. User akan dibawa kembali ke halaman utama dimana pesan yang dibalas juga dapat terlihat oleh user. 
+
+Skenario 2:
+Mengetikkan halaman website yang diinginkan dan tekan "browse" maka app akan membuka browser yang user ingin tuju. Namun jika kita tidak mengisi halaman website tersebut, maka ketika "browse" ditekan akan menuju ke halaman umn.ac.id.
+
+Skenario 3:
+Pada saat Button "Halaman 1" atau "Halaman 2" ditekan, maka user akan dibawa ke halaman yang berbeda yaitu halaman yang meminta user untuk mencoba mengganti tulisan yang terdapat pada halaman tersebut. 
