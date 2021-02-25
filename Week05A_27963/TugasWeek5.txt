@@ -1,0 +1,12 @@
+2. Pengujian yang saya lakukan:
+- Mengatur seekbar merah di sekitar 50%, hijau 100%, dan biru 100% untuk menghasilkan warna biru muda. 
+- Menggunakan mode Rect untuk membuat sebuah kotak. Kemudian menggunakan mode Path untuk menggambar isi kotak tersebut dengan asal.
+- Menggunakan clear dan gambar asal biru muda tersebut akan hilang. Pengaturan warna masih tetap sama seperti terakhir dipilih.
+
+
+- Mengatur kembali warna dengan menggunakan kombinasi merah 100%, hijau 100%, biru sekitar 20% sehingga menghasilkan warna kuning agak berat.
+- Menggunakan mode oval untuk membuat sebuah lingkaran.
+- Menggunakan mode line/path untuk membuat garis-garis di sekeliling lingkaran sehingga mengilustrasikan matahari. (:
+- Jika ingin menghapus kembali whiteboard tersebut, hanya tinggal menekan tombol clear.
+
+Seluruh fitur dari aplikasi tersebut berfungsi dengan baik. 
