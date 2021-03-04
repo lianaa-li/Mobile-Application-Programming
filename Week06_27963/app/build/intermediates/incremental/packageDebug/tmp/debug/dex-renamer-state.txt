@@ -1,0 +1,7 @@
+#Thu Mar 04 16:54:32 WIB 2021
+base.0=/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

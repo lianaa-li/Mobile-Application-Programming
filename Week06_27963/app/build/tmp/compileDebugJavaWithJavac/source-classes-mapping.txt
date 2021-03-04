@@ -1,0 +1,20 @@
+id/ac/umn/week06_27963/TombolSpring.java
+ id.ac.umn.week06_27963.TombolSpring
+id/ac/umn/week06_27963/ActivityKetiga.java
+ id.ac.umn.week06_27963.ActivityKetiga
+id/ac/umn/week06_27963/TombolFling.java
+ id.ac.umn.week06_27963.TombolFling
+id/ac/umn/week06_27963/BuildConfig.java
+ id.ac.umn.week06_27963.BuildConfig
+id/ac/umn/week06_27963/ActivityKedua.java
+ id.ac.umn.week06_27963.ActivityKedua
+ id.ac.umn.week06_27963.ActivityKedua$1
+id/ac/umn/week06_27963/MainActivity.java
+ id.ac.umn.week06_27963.MainActivity
+ id.ac.umn.week06_27963.MainActivity$1
+ id.ac.umn.week06_27963.MainActivity$2
+ id.ac.umn.week06_27963.MainActivity$3
+id/ac/umn/week06_27963/ActivityPertama.java
+ id.ac.umn.week06_27963.ActivityPertama
+id/ac/umn/week06_27963/ViewAnimasi.java
+ id.ac.umn.week06_27963.ViewAnimasi
