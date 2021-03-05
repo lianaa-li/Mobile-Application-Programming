@@ -1,0 +1,19 @@
+LINK GITHUB:
+https://github.com/lianaa-li/Mobile-Application-Programming
+
+Jawab:
+2. Pada saat aplikasi dibuka, maka layar akan menampilkan tiga buah button yang memiliki fiturnya 
+masing-masing dengan mengarahkan kita ke intent berbeda.
+- Button 1:
+    Ketika kita mengklik yang pertama, maka kita akan sebuah layar putih kosong. Kita coba klik asal
+    pada layar tersebut maka akan muncul sebuah lingkaran hijau yang membesar sampai layar penuh kemudian
+    mengecil kembali. Animasi tersbut diulang sekali lagi.
+- Button 2:
+    Ketika kita klik yg kedua, maka kita akan melihat sebuah gambar kuda. Kita klik pada gambar kuda tersebut,
+    kuda akan terlihat seperti bergerak layaknya sebuah gambar gif/video. Hal ini dikarenakan adanya kumpulan
+    gambar yang dijadikan satu lalu diberikan kecepatan tertentu untuk saling berpindah gambarnya dan dilooping
+    sehingga kuda akan terlihat bergerak.
+- Button 3:
+    Ketika kita klik 'Halo spring', maka atribut tersebut akan terlihat seperti ditekan kemudian kembali lagi ke posisi
+    semula seperti sebuah per pensil yang kita tekan dan lepas.
+    Lalu ketika kita klik 'Haloo Fling' maka atribut tersebut akan berputar terhadap sumbu X.

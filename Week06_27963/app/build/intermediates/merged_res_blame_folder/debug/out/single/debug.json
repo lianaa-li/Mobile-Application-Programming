@@ -1,43 +1,51 @@
 [
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda06.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda06.png"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda02.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda02.png"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda08.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda08.png"
-    },
-    {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda10.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda10.png"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda04.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda04.png"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/layout_activity_ketiga.xml.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/layout/activity_ketiga.xml"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda09.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda09.png"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda_lari.xml.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda_lari.xml"
     },
     {
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda10.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda10.png"
+    },
+    {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda04.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda04.png"
-    },
-    {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda03.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda03.png"
-    },
-    {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda11.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda11.png"
+    },
+    {
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda07.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda07.png"
+    },
+    {
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda05.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda05.png"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
@@ -52,44 +60,36 @@
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda01.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda01.png"
-    },
-    {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda07.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda07.png"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda01.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda01.png"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda05.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda05.png"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/layout_activity_kedua.xml.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/layout/activity_kedua.xml"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda09.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda09.png"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda08.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda08.png"
+    },
+    {
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda03.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda03.png"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/layout_activity_pertama.xml.flat",
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/layout/activity_pertama.xml"
-    },
-    {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda11.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda11.png"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
@@ -100,12 +100,12 @@
         "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable_kuda06.png.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable/kuda06.png"
     },
     {
-        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_kuda02.png.flat",
-        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/kuda02.png"
+        "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
         "merged": "/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
