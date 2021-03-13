@@ -1,0 +1,7 @@
+2. 
+Ketika 'ambil foto' ditekan maka pengguna akan diarahkan ke layar kamera dan kita dapat mengambil foto. Setelah mengambil foto, pengguna dapat memilih untuk keep, tidak jadi, atau mengambil foto kembali. Jika pengguna memilih keep, maka pengguna akan kembali ke layar aplikasi dan terlihat gambar yang telah pengguna ambil sebelumnya yang terletak di atas button 'ambil foto'.
+Hal yang sama berlaku juga pada pengambilan video ketika button 'ambil video' ditekan. ketika di main, akan terlihat sebuah video yang telah kita ambil tadi sedang berjalan.
+
+Lalu dibuat juga sebuah button 'gallery' dimana ketika nanti ditekan akan menampilkan sebuah recyclerview yang berisikan list video2 beserta informasi di sebelah masing2 video tersebut. Ketika item tersebut diklik, maka akan tertuju ke halaman video berputar dan keterangan berupa judul, keterangan, dan URi yang dapat diedit. Ketika button 'kembali' ditekan, kita akan kembali ke halaman recyclerview tadi tetapi informasi yang telah diedit tidak dapat berubah karena tidak adanya code untuk menyimpan editan informasi tersebut.
+
+LINK GITHUB: https://github.com/lianaa-li/Mobile-Application-Programming
