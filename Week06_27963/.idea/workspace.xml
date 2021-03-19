@@ -7,10 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f933bb6-27f6-4efb-b2e0-ed8dac4bbedc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week07A_27963/app/src/main/java/id/ac/umn/week07a_27963/MainActivity2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week07A_27963/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week06_27963.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/java/id/ac/umn/uts_27963/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/java/id/ac/umn/uts_27963/ProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/java/id/ac/umn/uts_27963/SongListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/res/drawable/music_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/res/drawable/user_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS_27963/app/src/main/res/layout/activity_song_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week05A_27963/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week05A_27963/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week05A_27963/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +53,7 @@
     <property name="android-custom-view/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/java/id/ac/umn/week06_27963/TombolFling.java_SELECTED" value="TombolFling" />
     <property name="android-custom-view/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/java/id/ac/umn/week06_27963/TombolSpring.java_SELECTED" value="TombolSpring" />
     <property name="android-custom-view/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/java/id/ac/umn/week06_27963/ViewAnimasi.java_SELECTED" value="ViewAnimasi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="multi-representation-preview/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/java/id/ac/umn/week06_27963/TombolFling.java_selected" value="Custom views" />
     <property name="multi-representation-preview/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/java/id/ac/umn/week06_27963/TombolSpring.java_selected" value="Custom views" />
     <property name="multi-representation-preview/Users/lianaguo/Documents/INFORMATIKA/SEMESTER 6/MOBILE/Lab/Week06_27963/app/src/main/java/id/ac/umn/week06_27963/ViewAnimasi.java_selected" value="Custom views" />
