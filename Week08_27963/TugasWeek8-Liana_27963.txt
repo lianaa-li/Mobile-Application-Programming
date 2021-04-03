@@ -1,0 +1,21 @@
+AKTIVITAS PERTAMA:
+-   tampilan default merupakan penyimpanan di internal, dimana jika kita mengisi nama file 'int 1' dan isi filenya 
+    'hai' lalu klik save, maka file akan tersimpan di penyimpanan internal. Lalu kita coba untuk klik open maka akan
+    muncul pilihan file tetapi file tidak bisa diklik untuk dilihat. Namun ketika kita mencoba untuk klik nama file 
+    'int 1' lalu open, kita dapat melihat isi file. Jika ingin mengubah isi file hanya perlu mengubah isinya dan save
+    kembali. Untuk menghapus sebuah file juga dapat dilakukan jika ada file yang sedang terbuka. 
+    Clear sendiri berfungsi untuk menghapus nama file dan isi file, tetapi tidak menghapus file itu sendiri, seperti undo 
+    tetapi undo teks secara keseluruhan.
+-   Hal yang sama juga berlaku pada penyimpanan Temporary dan penyimpanan External untuk fungsi save, open, clear, dan delete.
+    Namun, yang membedakan adalah bagaimana file tersebut disimpan. Untuk penyimpanan internal dan eksternal, file akan tetap
+    tersimpan jika kita klik 'Exit'. Berbeda dengan penyimpanan temporary, file yang tersimpan pada penyimpanan tersebut akan 
+    hilang jika kita klik 'Exit'. 
+
+AKTIVITAS KEDUA:
+-   Tampilan angka 0 dan background default. 
+-   Klik 'hitam' -> background hitam
+    Klik 'merah' -> background merah
+    Klik 'biru' -> background biru
+    Klik 'hijau' -> background hijau
+-   Klik 'tambah' -> increment angka per satu
+-   Klik 'reset' -> background dan angka akan kembali ke tahap awal yaitu angka 0 dan bg default
