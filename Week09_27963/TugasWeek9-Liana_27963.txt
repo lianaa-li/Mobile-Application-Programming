@@ -1,0 +1,16 @@
+-   Tekan tombol '+' pada kanan bawah untuk menambahkan data mahasiswa dimana nanti kita dapat
+mengisi nim, nama, email, dan no hp. 
+-   Setelah selesai mengisi data, tekan tombol 'simpan' sehingga nanti akan kembali ke
+aktivitas utama dan terlihat informasi data yang sudah kita isi tadi berupa nim dan nama. 
+Tekan tombol batal jika pengisian data tidak jadi dilakukan dan data tidak akan tersimpan.
+-   Jika kita tidak mengisi salah satu field yg diminta, maka file tidak akan disimpan dan
+muncul sebuah pesan yang meminta bahwa semua harus diisi.
+-   Pada aktivitas utama, swipe kanan pada salah satu data mahasiswa dan akan muncul aktivitas
+untuk mengedit data. Data yang diedit ini tidak dapat diubah pada bagian NIM, namun untuk yang
+lainnya dapat diubah sesuai dengan perubahan yang diinginkan. Edit data yang sudah selesai dapat
+disimpan dengan klik tombol 'simpan' dan data akan terubah.
+    Swipe kiri pada salah satu data mahasiswa dan data mahasiswa tersebut akan terhapus.
+-   Pada menu pilihan di kanan atas, terdapat pilihan hapus semua dimana ketika ditekan, seluruh
+data mahasiswa akan terhapus.
+
+GITHUB: https://github.com/lianaa-li/Mobile-Application-Programming
