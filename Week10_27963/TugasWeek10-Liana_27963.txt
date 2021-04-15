@@ -1,0 +1,29 @@
+LINK GITHUB:
+https://github.com/lianaa-li/Mobile-Application-Programming
+
+Async Task:
+-   Klik 'Mulai Task' maka thread akan berjalan. Status proses thread berjalan ini ditampilkan
+    dalam bentuk teks dan progress bar.
+-   Setelah thread telah selesai berjalan, maka informasi akan berganti menjadi informasi berupa
+    waktu berapa lama thread tadi berjalan.
+
+Async Task Loader:
+-   Tidak berbeda jauh dengan Async Task, thread akan berjalan ketika kita klik 'Mulai Task'
+    dan terdapat informasi status proses thread dalam bentuk teks dan progress bar
+-   Thread yang telah selesai dieksekusi, akan ditampilan waktu berapa lama thread tersebut berjalan
+-   Yang membedakan AsyncTaskLoader dengan AsyncTask adalah adalah AsyncTask akan selalu membuat
+    thread baru setiap task dieksekusi sedangkan AsyncTaskLoader menggunakan thread yang dapat
+    digunakan kembali berdasarkan LoaderID.
+
+Services:
+-   Ketika pertama kali membuka service, maka akan langsung berjalan fungsi IntentService dan berhenti
+    ketika sudah selesai tanpa memberi tahu bahwa di UI bahwa proses tersebut sudah selesai. Fungsi ini
+    tidak akan terganggu walaupun kita menjalankan service lain.
+-   Ketika kita klik 'Mulai service' maka thread akan berjalan pada background. Untuk menghindari adanya
+    error seperti ini:
+    "2021-04-15 18:16:48.509 7806-7806/id.ac.umn.week10_27963 I/Choreographer: Skipped 229 frames!  The application may be doing too much work on its main thread",
+    maka kita perlu menggunakan AsyncTaskLoader untuk menghindari adanya thread yang bekerja terlalu banyak
+    di main
+-   Ketika klik 'Tampilkan Waktu', maka waktu saat itu juga akan ditampilkan. Hal ini dikarenakan adanya nilai
+    yang dapat dikembalikan dengan menggunakan fungsi BoundService.
+
