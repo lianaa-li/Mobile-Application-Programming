@@ -1,0 +1,7 @@
+Ketika aplikasi dijalankan dan terkoneksi dengan internet maka isi file yang didapatkan
+dari format .json akan ditampilkan pada aplikasi tersebut. Hal ini dilakukan dengan bantuan
+retrofit. Ketika tidak terkoneksi dengan internet, maka isi file tersebut tidak dapat dibaca
+melalui aplikasi.
+
+LINK GITHUB:
+https://github.com/lianaa-li/Mobile-Application-Programming
