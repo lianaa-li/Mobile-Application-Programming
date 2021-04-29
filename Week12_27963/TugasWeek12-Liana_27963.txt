@@ -1,0 +1,15 @@
+Aktivitas pertama:
+- Berfungsi untuk deteksi sensor yang terdapat pada perangkat. 
+- Karena dijalankan pada virtual device, maka sensor yang terdeteksi adalah Goldfish,
+Game Rotation Vector Sensor, GeoMag Rotation Vector Sensor, Gravity Sensor, Linear Acceleration Sensor,
+Rotation Vector Sensor, dan Orientation Sensor. 
+
+Aktivitas Kedua:
+- Berfungsi untuk membaca data sensor berupa nilai light sensor dan proximity sensor.
+- Karena menggunakan virtual device, light sensor dan proximity sensor ini dapat kita coba ubah
+pada additional sensor tab. Proximity sensor adalah untuk mengukur jarak deteksi objek terhadap sensor
+perangkat. Sedangkan Light sensor untuk mengetahui kadar cahaya yang diterima oleh sensor perangkat.
+Semakin gelap, maka semakin kecil nilai kadar cahaya tersebut dan sebaliknya.
+
+LINK GITHUB:
+https://github.com/lianaa-li/Mobile-Application-Programming
