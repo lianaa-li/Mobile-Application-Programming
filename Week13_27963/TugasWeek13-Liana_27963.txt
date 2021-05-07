@@ -1,0 +1,11 @@
+Aplikasi ini mencoba mensimulasikan google maps pada android.
+- Pada saat dijalankan, tampilan maps akan muncul lokasi saat ini beserta dengan penanda2 yang sudah dibuat sebelumnya.
+- Kita bisa menambahkan penanda baru dengan klik button 'tambah'.
+- Jenis penanda bisa kita pilih diantara Marker, Circle, Polygon, maupun Polyline.
+- Jika kita telah memilih jenis, mengisi keterangannya, dan memilih tempat yang ingin ditandai di maps, maka kita dapat klik 'simpan' dan melihat bahwa maps akan terupdate dengan adanya penanda yang telah kita buat tadi.Khusus untuk jenis Circle, kita perlu mengisi besar radiusnya. Sedangkan untuk Polyline, kita harus memilih tempat pada maps
+dua kali untuk menunjukkan garis jarak satu tempat ke tempat lainnya.
+- Maps dapat digeser-geser jika ingin melihat daerah lain. 
+- Untuk zoom in maupun zoom out, view maps ini akan berubah sebesar 16level.
+
+LINK GITHUB:
+https://github.com/lianaa-li/Mobile-Application-Programming
